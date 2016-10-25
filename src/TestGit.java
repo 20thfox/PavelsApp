@@ -7,4 +7,7 @@ public class TestGit {
     public void test() {
 
     }
+    public void incoming() {
+
+    }
 }
