@@ -8,6 +8,7 @@ public class TestGit {
 
     }
     public void incoming() {
+        int a = 123;
 
     }
 }
